@@ -5,7 +5,7 @@ import logging
 import random
 
 # 自分のBotのアクセストークンに置き換える
-TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
